@@ -1,0 +1,3 @@
+{"id":"demo-1","expected":"2","prediction":"<answer>2</answer>"}
+{"id":"demo-2","expected":"-3","prediction":"<answer>-3</answer>"}
+{"id":"demo-3","expected":"4","prediction":"<answer>5</answer>"}
